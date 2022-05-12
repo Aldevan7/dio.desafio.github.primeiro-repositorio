@@ -1,2 +1,5 @@
-# dio.desafio.github.primeiro-repositorio
-Desafio de projeto sobre Git/Githu
+# Repósitorio do projeto sobre Git/Github da Dio
+Repositório criado para desafio de projeto DIO
+
+## Linkes Úteis
+[Linkedln](https://www.linkedin.com/in/aldevan7/)
